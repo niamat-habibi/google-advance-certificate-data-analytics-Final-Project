@@ -54,7 +54,7 @@ Employee attrition is a critical challenge for HR professionals, impacting workf
 ## 🛠️ How to Run the Notebook
 1. Clone this repository:
    ```bash
-   git clone https://github.com/niamat-habibi/your-repo.git
+   git clone https://github.com/niamat-habibi/google-advance-certificate-data-analytics-Final-Project.git
    ```
 2. Install dependencies:
    ```bash
